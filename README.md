@@ -87,7 +87,7 @@ Generated actionable insights for risk management.
 
 ▶️ How to Run
 Clone the repository
-git clone 
+git clone https://github.com/mariyam06-star/OIBSIP_DataAnalystic_level2_project3.git
 Navigate to the project directory
 cd Fraud-Detection-System
 Install dependencies
